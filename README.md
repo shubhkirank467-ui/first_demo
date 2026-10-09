@@ -1,3 +1,4 @@
 # first_demo
-This is my First Repository
-Author - SHUBHKIRAN KAUR
+This is my First Repository.
+<br>
+Author-SHUBHKIRAN KAUR
